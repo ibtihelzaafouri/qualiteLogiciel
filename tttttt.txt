@@ -1,0 +1,12 @@
+Git et Github, c'est quoi ?
+
+Git est un VCS (Version Control System = Logiciel de Gestion de Version) qui va vous permettre de capturer l'état de votre projet à un instant précis tout au long de son développement dans le but d'éviter d'éventuelles pertes de données au fur et à mesure de l'évolution de celui-ci. Ces captures seront enregistrées dans un dépôt.
+Git vous permettra de naviguer entre les différentes captures de votre projet de façon très simple pour par exemple détecter les erreurs qui posent problèmes sur la nouvelle version de votre projet.
+De plus, Git possède un système de branche ingénieux qui vous permettra de travailler sur plusieurs versions de votre site en parallèle dans le but notamment de développer plusieurs fonctionnalités en parallèle.
+
+Github est une plateforme de collaboration pour les développeurs basée sur Git.
+Concrètement, Github va vous permettre d'héberger vos dépôts Git pour faciliter la collaboration avec d'autres développeurs sur votre projet.
+Github vous permettra de travailler en solo (éventuellement avec des collaborateurs) ou alors en groupe en montant une organisation composée d'équipes auxquelles vous pourrez confier des projets en gérant vous même les niveaux de privilèges pour accéder aux dépôts.
+Avec Github, vous pourrez également héberger vos sites web statiques et vos projets web gratuit
+ement.
+git reset head tild 
